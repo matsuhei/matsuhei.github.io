@@ -22,12 +22,6 @@ header nav ul li {
     margin-right: 20px;
 }
 
-.logo {
-    width: auto; /* ロゴの幅を調整 */
-    height: auto; /* 高さは自動調整 */
-    margin-top: 10px; /* 上部の余白を追加 */
-}
-
 header nav ul li a {
     color: #fff;
     text-decoration: none;
